@@ -1,0 +1,19 @@
+# JARVIS Acadêmico - Dependências
+# Instale com: pip install -r requirements.txt
+
+# LLM e embeddings
+openai>=1.0.0          # cliente compatível com API Gemma/OpenAI
+sentence-transformers>=2.2.0  # embeddings locais (fallback)
+
+# RAG
+faiss-cpu>=1.7.4       # busca vetorial
+PyMuPDF>=1.23.0        # leitura de PDF (fitz)
+langchain>=0.1.0       # pipeline RAG
+langchain-community>=0.0.20
+
+# Dados e utilitários
+pandas>=2.0.0
+python-dotenv>=1.0.0
+
+# Interface de linha de comando (opcional, mas agradável)
+rich>=13.0.0           # output bonito no terminal
