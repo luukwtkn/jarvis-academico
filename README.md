@@ -163,6 +163,10 @@ llm.py (Gemma 12B)
 - Prioridades: alta 🔴, média 🟡, baixa 🟢
 - Campos: título, disciplina, prazo, prioridade, status
 
+### IAs Utilizadas:
+- Claude.ai (Sonnet 4.6)
+- ChatGPT (GPT-5.5)
+- Gemini (3.5 Thinking)
 ---
 
 ## Dependências principais
