@@ -188,4 +188,4 @@ llm.py (Gemma 12B)
 
 Disciplina: Inteligência Artificial  
 Professor: Edson Takashi Matsubara
-Semestre: 2025/1
+Semestre: 2026/1
