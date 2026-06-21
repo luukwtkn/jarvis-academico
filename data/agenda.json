@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "tipo": "prova",
+    "titulo": "Prova Sobre Embeddings, dia",
+    "data": "2026-06-22",
+    "hora": "18:30",
+    "local": "",
+    "descricao": ""
+  },
+  {
+    "id": 2,
+    "tipo": "aula",
+    "titulo": "aula Progweb dia",
+    "data": "2026-06-23",
+    "hora": "20:40",
+    "local": "",
+    "descricao": ""
+  },
+  {
+    "id": 3,
+    "tipo": "prova",
+    "titulo": "Prova optativa inteligencia artificial",
+    "data": "2026-06-22",
+    "hora": "20:40",
+    "local": "",
+    "descricao": ""
+  }
+]
